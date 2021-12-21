@@ -1,0 +1,1 @@
+import{_ as e}from"./index.2b50ce85.js";import{d as o,v as t,o as r}from"./vendor.788096f7.js";const n=o({name:"home",data(){return{}}}),s={width:"100%",frameborder:"0",height:"100%",src:"https://tpolong.github.io/"};function a(c,i,d,p,f,m){return r(),t("iframe",s)}var u=e(n,[["render",a]]);export{u as default};
